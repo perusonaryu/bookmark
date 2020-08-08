@@ -1,0 +1,5 @@
+
+
+
+SELECT * FROM gs_bm_table LEFT OUTER JOIN category_table ON gs_bm_table.category = category_table.category_id
+

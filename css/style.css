@@ -1,0 +1,35 @@
+body{
+    padding-top: 5.0rem;
+}
+
+.a{
+    width: 250px;
+    text-align: left;
+}
+
+.a:hover {
+    background-color: #282828 ;
+    color: white;
+}
+
+.dropdown-menu {
+    width: 250px;
+}
+
+.dropdown-menu a:hover {
+    background: #51aecc;
+    color: white;
+    cursor: pointer;
+}
+
+.card-img-top{
+    width:100% !important;
+    height: 300px !important;
+}
+
+.scroll{
+    height:800px !important;
+    overflow:scroll !important;
+    
+}
+
